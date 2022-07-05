@@ -1,3 +1,3 @@
 # python-learning
 
-This Repo holds learing documentions for python learning !!!
+This Repo holds Learning documentions for python learning !!!
